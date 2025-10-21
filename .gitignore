@@ -1,0 +1,6 @@
+__tmp/
+# Script output files
+new_repos.md
+*.pyc
+__pycache__/
+scripts/
