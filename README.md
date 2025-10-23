@@ -42,6 +42,19 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 
 - [Archon/AGENTS.md](https://github.com/coleam00/Archon/blob/main/AGENTS.md) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. ([source](https://github.com/coleam00/Archon))
 
+### AI Code Generation
+
+- [openai/codex/AGENTS.md](https://github.com/openai/codex/blob/-/AGENTS.md) - OpenAI Codex: AI system that translates natural language to code. ([source](https://github.com/openai/codex))
+
+### Workflow Orchestration
+
+- [apache/airflow/AGENTS.md](https://github.com/apache/airflow/blob/-/AGENTS.md) - Apache Airflow: Platform to programmatically author, schedule and monitor workflows. ([source](https://github.com/apache/airflow))
+- [temporalio/sdk-java/AGENTS.md](https://github.com/temporalio/sdk-java/blob/-/AGENTS.md) - Temporal Java SDK: Build reliable applications with Temporal's Java SDK for workflow orchestration. ([source](https://github.com/temporalio/sdk-java))
+
+### Programming Languages
+
+- [PlutoLang/Pluto/AGENTS.md](https://github.com/PlutoLang/Pluto/blob/-/AGENTS.md) - Pluto: A lightweight, reactive programming language for building web applications. ([source](https://github.com/PlutoLang/Pluto))
+
 ## AGENTS.md files
 
 ### AI Specialists
@@ -314,14 +327,14 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 - [Web Design Consultant](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/web-design-consultant.md) - Web design.
 - [SVG Designer](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/svg-designer.md) - Vector graphics.
 - [Interior Decorator](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/interior-decorator.md) - Interior design.
-.
+
 ### Writing & Content
 - [Tech Writer](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/tech-writer.md) - Technical documentation.
 - [Essay Writer](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/essay-writer.md) - Essay composition.
 - [Screenwriter](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/screenwriter.md) - Script writing.
 - [Cover Letter](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/cover-letter.md) - Professional application letters.
 - [Commit Message Generator](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/commit-message-generator.md) - Git commit messages.
-.
+
 ### Education & Training
 - [Instructor in a School](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/instructor-in-a-school.md) - Teaching and instruction.
 - [Career Coach](https://github.com/tairov/awesome-agents.md/blob/master/agentsmd-files/career-coach.md) - Career development.
